@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display:flex;gap:10px;flex-wrap:wrap;">
-    <img src="https://github-stats-extended.vercel.app/api?username=nagi-hikaru&show_icons=true&include_all_commits=true&theme=radical" width="48%">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nagi-hikaru&langs_count=3&theme=radical" width="48%">
+<div style="display:flex;gap:12px;flex-wrap:wrap;margin:10px 0;">
+    <img src="https://github-stats-extended.vercel.app/api?username=nagi-hikaru&show_icons=true&include_all_commits=true&theme=radical" width="47">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nagi-hikaru&langs_count=3&theme=radical" width="47">
 </div>
