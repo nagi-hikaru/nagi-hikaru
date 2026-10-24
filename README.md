@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🐭 Here is my personal blog: [Lyu](https://nagi-hikaru.github.io)
+
 | <img src="https://github-stats-extended.vercel.app/api?username=nagi-hikaru&show_icons=true&include_all_commits=true&theme=radical"> | <img src="https://github-stats-extended.vercel.app/api/top-langs?username=nagi-hikaru&langs_count=3&theme=radical"> |
 | :--------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: |
